@@ -1,0 +1,10 @@
+{
+  "name": "todo_rename_dna",
+  "uuid": "",
+  "properties": null,
+  "zomes": {
+    "profiles": {
+      "wasm_path": "../target/wasm32-unknown-unknown/release/profiles.wasm"
+    }
+  }
+}
