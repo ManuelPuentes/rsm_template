@@ -1,1 +1,1 @@
-extern crate resource_bookings;
+extern crate profiles;
