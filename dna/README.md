@@ -7,8 +7,7 @@ To change the code, you can work either opening VSCode inside the root folder of
 ## Requirements
 
 - Have [`holochain-run-dna`](https://www.npmjs.com/package/@holochain-open-dev/holochain-run-dna) installed globally.
-- Install the holochain RSM binaries: clone [holochain core](https://github.com/holochain/holochain) and follow `To Build Binaries` from its README.
-- Run all the steps described in this README.md inside the `nix-shell` of the `holochain` core repository, after having run `hc-install` in that `nix-shell`.
+- Having the holochain binaries installed.
 
 ## Building
 
