@@ -21,7 +21,7 @@ dna-util -c todo_rename_dna.dna.workdir/
 After having built the DNA:
 
 ```bash
-cd test
+cd tests
 npm install
 npm test
 ```
